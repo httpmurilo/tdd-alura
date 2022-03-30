@@ -3,6 +3,7 @@ package io.murilo.service;
 import io.murilo.model.Funcionario;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public class BonusService {
 
